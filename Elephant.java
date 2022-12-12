@@ -4,7 +4,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * The Elephant, our hero 
  * 
  * @author  Hoffman
- * @version (a version number or a date)
+ * @version Decmeber 
+ * 022
  */
 public class Elephant extends Actor
 {
