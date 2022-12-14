@@ -1,10 +1,10 @@
 #Greenfoot project file
 class.Apple.image=apple.png
 class.Elephant.image=elephant.png
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=178
+editor.fx.0.y=90
 height=585
 package.numDependencies=0
 package.numTargets=3
@@ -46,5 +46,5 @@ target3.y=0
 version=3.0.0
 width=843
 world.lastInstantiated=MyWorld
-xPosition=223
-yPosition=213
+xPosition=161
+yPosition=28
